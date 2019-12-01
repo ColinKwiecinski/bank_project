@@ -1,6 +1,8 @@
 ## Webapp for visualizing transaction history from USBank
 Built using R Shiny by Colin Kwiecinski  
 
+[Link to Project](https://colinkwi.shinyapps.io/bank_project/)
+
 Functions:
 - Lets the user import a csv file containing bank records downloaded from 
 USBank  
