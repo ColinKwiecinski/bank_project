@@ -74,8 +74,12 @@ navbarPage(
                  )
              ),
              mainPanel(
+                 p("If you recieve an error, please check that you have uploaded
+                   the data file correctly using the sidebar controls."),
+                 
                  tabsetPanel(
                      type = "tabs",
+                    
                      tabPanel(
                          "Barplot",
                          plotlyOutput("main_barplot")
