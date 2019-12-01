@@ -1,0 +1,12 @@
+name: bank_project
+title: bank_project
+username:
+account: colinkwi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1543969
+bundleId: 2629253
+url: https://colinkwi.shinyapps.io/bank_project/
+when: 1575167091.16593
+asMultiple: FALSE
+asStatic: FALSE
