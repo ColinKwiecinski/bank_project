@@ -5,7 +5,17 @@
     "description": "placeholder"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": []
+    "contributors": [
+      {
+        "name": "colinkwi"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "asdf",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
   }
 }
